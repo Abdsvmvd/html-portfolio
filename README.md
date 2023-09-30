@@ -1,1 +1,23 @@
 # html-portfolio
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>SAMAD's Portfolio</title>
+</head>
+
+<body>
+  <h1>Samad's Portfolio</h1>
+  <h2>I'm a Web Developer</h2>
+  <hr />
+  <h3><a href="./public/movie-ranking.html">Movie Ranking Project</a></h3>
+  <img src="./assets/images/movie-ranking.png" height="200" alt="movie ranking project preview"/>
+  <h3><a href="./my website.html">my website</a></h3>
+  <img src="./my website screenshot.png" height="200" alt="my website project preview"/>
+  <hr />
+  <a href="./public/about.html">About Me</a>
+  <a href="./public/contact.html">Contact Me</a>
+</body>
+
+</html>
